@@ -1,0 +1,29 @@
+.card {
+    height: 100%;
+    display: flex;
+    flex-direction: column; 
+    justify-content: space-between;
+}
+
+.card-actions {
+    margin-bottom: 1rem;
+}
+
+.cardbutton {
+    text-transform: bold !important;
+    font-weight: 600 !important;; 
+    font-style: none !important;;
+    background-color:  #00a278 !important;
+    color: white !important;;
+    /* padding:15px !important; */
+    width: 100% !important;
+}
+
+.no-products {
+    height: 470px;
+    width : 720px;
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    
+}
